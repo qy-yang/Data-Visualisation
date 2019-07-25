@@ -1,2 +1,2 @@
-# python-visualisation
-basic visualisation codes
+# Data Visualisation
+Basic data visualisation python codes
