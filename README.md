@@ -1,2 +1,2 @@
 # Data Visualisation
-Basic data visualisation python codes
+This project is to run through the basic data visualisation python codes
